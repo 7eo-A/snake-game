@@ -1,0 +1,9 @@
+# Java #
+*.class
+build/
+
+# Documents Netbeans #
+build.xml
+manifest.mf
+nbproject/
+
